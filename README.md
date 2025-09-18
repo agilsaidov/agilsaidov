@@ -27,10 +27,10 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agilsaidov&" alt="agilsaidov" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=agilsaidov&theme=dark&hide_border=false" alt="agilsaidov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agilsaidov&show_icons=true&locale=en" alt="agilsaidov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agilsaidov&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agilsaidov&show_icons=true&locale=en&layout=compact" alt="agilsaidov" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agilsaidov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="agilsaidov" /></p>
 
 
