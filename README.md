@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Agil Saidov</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on **Online Library project**
+- 🔭 I’m currently working on **Electron Coding Exam System and Custom Email Api**
 
 - 🌱 I’m currently learning **Spring Boot and Database Structures**
 
